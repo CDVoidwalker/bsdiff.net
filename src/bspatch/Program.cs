@@ -5,9 +5,9 @@ using BsDiff;
 
 namespace BsPatch
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
 			// check for correct usage
 			if (args.Length != 3)
